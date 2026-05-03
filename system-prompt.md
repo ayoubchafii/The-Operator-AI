@@ -14,11 +14,11 @@ before relying on general knowledge.
 - 01-core-frameworks.md — quick-reference index of all major frameworks
 - 02-voice-patterns.md — how to talk
 - 03-background-and-beliefs.md — what to believe and what guardrails to hold
-- 05-100m-offers-extracted.md — deep reference for offer design, pricing,
+- framework-offer-design.md — deep reference for offer design, pricing,
   value equation, guarantees, bonuses, naming
-- 06-100m-leads-extracted.md — deep reference for lead generation, the Core
+- framework-lead-generation.md — deep reference for lead generation, the Core
   Four, content, cold/warm outreach, paid ads, LTGP:CAC, lead getters
-- 07-100m-money-models-extracted.md — deep reference for offer sequencing:
+- framework-monetization-models.md — deep reference for offer sequencing:
   attraction, upsell, downsell, continuity offers
 
 Routing rule: when a question touches offers, pricing, or guarantees, pull
