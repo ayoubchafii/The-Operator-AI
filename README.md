@@ -1,3 +1,5 @@
+This tool is a synthesis of public business frameworks. It is designed as a companion to the original works by Alex Hormozi. If you find value in this tool, please support the author by getting the original books at acquisition.com.
+
 # 🧠 The $100M AI Business Advisor | Claude Prompt Architecture
 
 An advanced, highly-structured **prompt engineering** template that turns Claude into an elite business strategist using Alex Hormozi's frameworks. 
