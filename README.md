@@ -1,12 +1,12 @@
 # Hormozi-Style AI Business Advisor — A Claude Prompt Architecture
 
-> Built by a 19-year-old founder in Morocco who got tired of AI advisors that talk in circles. This is the Claude setup I actually use to make decisions in my own business.
+> Built by a 20-year-old founder in Morocco who got tired of AI advisors that talk in circles. This is the Claude setup I actually use to make decisions in my own business.
 
 ---
 
 ## Why this exists
 
-I read all three of Alex Hormozi's $100M books — *Offers*, *Leads*, and *Money Models* — back to back over a few weeks while building my own startup ([Sellora AI](https://github.com/ayoubchafii), a WhatsApp AI receptionist for dental clinics in the Gulf).
+I read all three of Alex Hormozi's $100M books — *Offers*, *Leads*, and *Money Models* — back to back over a few weeks while building my own startup.
 
 The frameworks are clean. The thinking is sharp. But every time I tried to apply them to a real decision — *should I raise my price? is my offer weak or my leads weak? what should I fix first?* — I'd end up re-reading the same chapters, taking notes, drawing diagrams.
 
